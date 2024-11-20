@@ -1,0 +1,7 @@
+/src
+.idea
+/node_modules
+.DS_Store
+tsconfig.json
+tsup.config.ts
+package-lock.json
